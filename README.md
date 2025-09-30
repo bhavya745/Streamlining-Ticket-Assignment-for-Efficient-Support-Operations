@@ -61,3 +61,5 @@ This approach helps decrease ticket resolution time, boost team productivity, an
 
 This project demonstrates how ServiceNow can be used to design low-code solutions for IT service management. 
 Automating ticket assignments not only reduces workload but also enhances efficiency and ensures security through role-based access control.
+
+**Link** : [Demo Link] (https://drive.google.com/file/d/1XR4EjCKkntkXedi5NsH9PGe3DYdUUopy/view?usp=drive_link)
